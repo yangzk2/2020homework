@@ -1,5 +1,5 @@
 package com.yangzk;
 
-public interface IPay {
+public interface IAbroadPay {
     public void pay();
 }
